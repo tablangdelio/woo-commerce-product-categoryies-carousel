@@ -1,4 +1,4 @@
-
+<?php
 function custom_carousel_cat() {
 
    wp_enqueue_script( '3-4-1jquery',  get_stylesheet_directory_uri() . '/assets/js/3.4.1-jquery.min.js', array(), '3.4.1', true );
